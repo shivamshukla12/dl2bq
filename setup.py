@@ -6,5 +6,5 @@ setup(name='dl2bq',
       py_modules=["dl2bq"],
       author='shivam shukla',
       author_email='shivamshukla12@gmail.com',
-      package_dir = {' ':r'C:\Users\i339715\Desktop\dl2bq\src'}
+      package_dir = {' ':r'dl2bq'}
       )
